@@ -1,1 +1,0 @@
-Exploratory Data Analysis (EDA) and statistical analysis of the Iris dataset using Python. This project uses Pandas, NumPy, and Matplotlib to explore flower measurements, calculate descriptive statistics and correlations, compare three Iris species, and visualize data patterns using histograms, scatter plots, and bar charts.
